@@ -23,7 +23,7 @@ const AboutUs=()=>{
                     
                     <h3>Innovative</h3>
                     <p>Blood Buddy is an innovative approach to address global health.We provide <span>immediate
-                            access</span> to blood donors.</p>
+                            access</span> to blood donors. Innovate and Expand</p>
                 </div>
                 <div className="about-col">
                     <div className="image">
@@ -31,7 +31,7 @@ const AboutUs=()=>{
                     </div>
                     <h3>Network</h3>
                     <p>Blood Buddy is one of several community organizations working together as a network that
-                        responds to emergencies in an efficient manner.</p>
+                        responds to emergencies in an well manner.</p>
                 </div>
                 <div className="about-col">
                     <div className="image">
@@ -56,7 +56,7 @@ const AboutUs=()=>{
                     <h3>Save Life</h3>
                     <p>We are a non profit foundation and our main objective is to make sure that everything is done
                         to protect vulnerable persons.<span>Help
-                            us by making a gift!</span></p>
+                            us by making a gift! Save Blood save lifes.</span></p>
                 </div>
             </div>
         </div>

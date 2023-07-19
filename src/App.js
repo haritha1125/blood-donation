@@ -8,6 +8,8 @@ import Request from "./Components/Request/request"
 import About from "./Components/About/about"
 import Hospital from "./Components/Hospital/hospital"
 import Hospitalcont from "./Components/Hospitalcont/hospitalcont"
+import Login from "./Components/Login/Login"
+import Register from "./Components/Register/Register"
 
 
 function App() {
@@ -23,6 +25,8 @@ function App() {
            <Route path="request" element={<Request/>}/>
            <Route path="hospitalForm" element={<Hospital/>}/>
            <Route path="hospital" element={<Hospitalcont/>}/>
+           <Route path="login" element={<Login/>}/>
+           <Route path="register" element={<Register/>}/>
           
        </Routes>
        <Footer/>

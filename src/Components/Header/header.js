@@ -8,7 +8,7 @@ const Header = () => (
     <img
       alt="logo"
       className="logo"
-      src="https://images.hindustantimes.com/img/2022/06/22/1600x900/blood-donation-gd071f3ded_1920_1655893247578_1655893271863.png"
+      src="bloo.jpg"
     />
   </div>
 
@@ -20,7 +20,7 @@ const Header = () => (
     </li>
     <li className="link-item">
       <Link className="route-link" to="/about">
-      About Us
+      About
       </Link>
     </li>
     <li className="link-item">
@@ -38,7 +38,7 @@ const Header = () => (
           </li>
           <li className="sub-link-item">
             <Link className="route-link" to="/recipient">
-            Receipent
+            Recipient
             </Link>
           </li>
         </li>

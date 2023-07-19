@@ -1,5 +1,3 @@
-
-
 import React from "react";
 import "./footer.css";
 
@@ -17,11 +15,11 @@ const Footer = () => {
         <div className="footer-section">
           
           <p>
-            Address: 123 ABC Street, City, State, Country
+            Address: Ellamanda, Narasaraopet, AndhraPradesh, India.
             <br />
-            Phone: +1 234 5678 910
+            Phone: 7601022160
             <br />
-            Email: info@bloodbank.com
+            Email: bloodlink@gmail.com
           </p>
         </div>
       </div>
